@@ -9,4 +9,4 @@ From Class [BIMM143](https://bioboot.github.io/bimm143_S23/)
 
 - Class 09: [**Structural Bioinformatics (Pt. 1)**](https://github.com/ericg35/bimm_143/blob/main/class09/class09.pdf) [source code](https://github.com/ericg35/bimm_143/tree/main/class09)
 
-- Class 10: [**Comparative analysis of ADK**](https://github.com/ericg35/bimm_143/blob/main/class10/class10.qmd) [source code](https://github.com/ericg35/bimm_143/tree/main/class10)
+- Class 10: [**Comparative analysis of ADK**](https://github.com/ericg35/bimm_143/blob/main/class10/class10.pdf) [source code](https://github.com/ericg35/bimm_143/tree/main/class10)
